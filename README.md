@@ -33,13 +33,13 @@ address for Heterogeneous Graph Convolutional Networks:
 
 	--data
  	  --train
-    	    --graph
+    	  --graph
 	    --feat
-     		--cos
-       		--dum
-	 	--exc
+     	      --cos
+       	      --dum
+	      --exc
      	    --edge
-	  	--cos
-    		--dum
-      		--exc
+	      --cos
+    	      --dum
+      	      --exc
  	    
