@@ -28,6 +28,7 @@ address for keypoint detection model:
 	    --train
 	      --images
 
+Heterogeneous Graph Convolutional Networks simple example code presents data transforming to graph data for the DGL library, and the model with simple training is also presented.
 address for Heterogeneous Graph Convolutional Networks:
 
 	--data
