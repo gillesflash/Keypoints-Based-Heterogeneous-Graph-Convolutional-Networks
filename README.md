@@ -37,8 +37,8 @@ address for Heterogeneous Graph Convolutional Networks:
        		--cos
 	 	--dum
    		--exc
-     	      --feat
-       		--cos
+     	      --edge
+	    	--cos
 	 	--dum
    		--exc
 
