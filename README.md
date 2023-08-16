@@ -1,7 +1,4 @@
-#Keypoints-Based-Heterogeneous-Graph-Convolutional-Networks
-Keypoints-Based Heterogeneous Graph Convolutional Networks for Construction Machinery Activity Classification
+# How to Train a Custom Keypoint Detection Model with PyTorch
 
-This project is for the paper Keypoints-Based Heterogeneous Graph Convolutional Networks for Construction Machinery Activity Classification.
-
-Abstract is: 
-Artificial intelligence algorithms employed for classifying excavator-related activities predominantly rely on sensors embedded within individual machinery or computer vision (CV) techniques encompassing a large scene. The existing CV-based methods are often difficult to tackle an image including multiple excavators and other cooperating machinery. This study presents a novel framework tailored to the classification of excavator activities, accounting for both the excavator itself and the dumpers collaborating with the excavator during operations. Distinct from most existing related studies, this method centers on the transformed heterogeneous graph data constructed using the keypoints of all cooperating machinery extracted from an image. The resulting model leverages the relationships between the mechanical components of an excavator in varying activation states and the associations between the excavator and the collaborating machinery. Before processing the node data, nodes need to be extracted from the image. In this project, the Machinery Keypoint R-CNN method is implemented to tackle this specific challenge. To distinguish nodes situated on different types of machinery, Heterogeneous Graph Convolutional Networks are utilized within our approach's framework. The results suggest that the proposed framework can effectively predict earthwork activities (with an accuracy of up to 97.5\%) when the image encompasses multiple excavators and cooperating machinery. This solution holds promising potential for the automated measurement and management of earthwork productivity within the construction industry.
+### Detailed explanation
+https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-with-pytorch-d9af90e111da
