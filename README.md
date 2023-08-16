@@ -31,15 +31,17 @@ address for keypoint detection model:
 
 address for Heterogeneous Graph Convolutional Networks:
 
+
 	--data
- 	  --train
-    	  --graph
-	    --feat
-     	      --cos
-       	      --dum
-	      --exc
-     	    --edge
-	      --cos
-    	      --dum
-      	      --exc
+	  --train
+	    --graph
+	      --feat
+       		--cos
+	 	--dum
+   		--exc
+     	      --feat
+       		--cos
+	 	--dum
+   		--exc
+
  	    
