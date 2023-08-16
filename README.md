@@ -6,7 +6,6 @@ Keypoint detection model is based on mask RCNN and keypoint RCNN
 
 address for keypoint detection model:
 
-
 	--test_dumper.py(code)
 	--test_excavator.py(code)
 	--test_dozer.py(code)
@@ -30,7 +29,6 @@ address for keypoint detection model:
 	      --images
 
 address for Heterogeneous Graph Convolutional Networks:
-
 
 	--data
 	  --train
