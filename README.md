@@ -42,5 +42,8 @@ address for Heterogeneous Graph Convolutional Networks:
 	      --cos
 	      --dum
 	      --exc
-	
-	 	    
+
+
+TO DO:
+
+Upload the version for combining two models directly
