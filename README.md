@@ -1,4 +1,8 @@
-This keypoint detection model is based on mask RCNN and keypoint RCNN
+Keypoints-Based Heterogeneous Graph Convolutional Networks for Construction Machinery Activity Classification
+
+environment: ubuntu 20.04, PyTorch 1.10. Deep Graph Library(DGL) with CUDA 11.3 is the main library for HGCNs.
+
+Keypoint detection model is based on mask RCNN and keypoint RCNN
 
 address for keypoint detection model:
 
@@ -24,3 +28,4 @@ address for keypoint detection model:
 	  --DT_excavator
 	    --train
 	      --images
+
